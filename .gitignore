@@ -1,0 +1,56 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temp files
+temp/
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Cache
+.cache/
+*.cache
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Music files (large)
+*.mp3
+*.flac
+*.wav
+*.m4a
+*.aac
+
+# Database
+*.db
+*.sqlite
